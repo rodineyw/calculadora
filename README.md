@@ -1,10 +1,8 @@
-<div align="center">
+
 
 ![](./public/tela-calculadora.png)
 
-![](./public/icon.png)
-
-</div>
+---
 
 <p>Se você curtir esse conteúdo, deixe uma STAR ai nesse repo, porque isso me motiva a trazer mais conteúdos.</p>
 
